@@ -1,0 +1,2511 @@
+[
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2165795,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "EQUESTRIAN CENTRE, ",
+        "Address1": "LOCAL NO/MAP REF: 4/2",
+        "Address2": "BULLSTOWN",
+        "Address3": "DONAGHMORE",
+        "Address4": "DUNSHAUGHLIN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 708877.974703045,
+        "Yitm": 750092.871459904,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "ARENA",
+                "Area": 2193.9,
+                "NavPerM2": 16.2,
+                "Nav": 35541.18
+            },
+            {
+                "Level": "0",
+                "FloorUse": "CANTEEN",
+                "Area": 250.29,
+                "NavPerM2": 10.0,
+                "Nav": 2502.9
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2209408,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, ",
+        "Address1": "LOCAL NO/MAP REF: 4AA/1",
+        "Address2": "CUSHINSTOWN",
+        "Address3": "DUNBOYNE",
+        "Address4": "DUNSHAUGHLIN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 699931.04,
+        "Yitm": 743776.91,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "ARENA",
+                "Area": 1966.0,
+                "NavPerM2": 18.0,
+                "Nav": 35388.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 520.0,
+                "NavPerM2": 10.0,
+                "Nav": 5200.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 0.0,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2203892,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "GOLF DRIVING RANGE, -",
+        "Address1": "DROGHEDA ROAD",
+        "Address2": "PILLTOWN",
+        "Address3": "JULIANSTOWN",
+        "Address4": "CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 712110.64,
+        "Yitm": 772701.44,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CANOPY",
+                "Area": 272.0,
+                "NavPerM2": 12.0,
+                "Nav": 3264.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "OFFICE(S)",
+                "Area": 24.4,
+                "NavPerM2": 45.0,
+                "Nav": 1098.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "16/07/2021",
+        "PropertyNumber": 5013953,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "EQUESTRIAN CENTRE, -",
+        "Address1": "Castlerickard",
+        "Address2": "Longwood",
+        "Address3": "Co Meath",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 673030.604834702,
+        "Yitm": 749175.716292644,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "ARENA",
+                "Area": 1168.27,
+                "NavPerM2": 16.0,
+                "Nav": 18692.32
+            },
+            {
+                "Level": "0",
+                "FloorUse": "ALLOWANCE",
+                "Area": -1869.0,
+                "NavPerM2": 1.0,
+                "Nav": -1869.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5017668,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "SPORTS & LEISURE CENTRE, -",
+        "Address1": "INTEGRAL",
+        "Address2": "FITNESS AND LEISURE CENTRE",
+        "Address3": "BETTYSTOWN",
+        "Address4": "CO MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 715996.49,
+        "Yitm": 773431.56,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "SPORTS & LEISURE",
+                "Area": 1006.6,
+                "NavPerM2": 60.0,
+                "Nav": 60396.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "PLANT ROOM",
+                "Area": 8.0,
+                "NavPerM2": 60.0,
+                "Nav": 480.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5007611,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "5AA/1 CULLENTRY",
+        "Address2": "RATHMOYLAN",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 674152.129767828,
+        "Yitm": 746129.835922044,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "PORTACABIN",
+                "Area": 74.05,
+                "NavPerM2": 10.0,
+                "Nav": 740.5
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 3212.77,
+                "NavPerM2": 20.0,
+                "Nav": 64255.4
+            },
+            {
+                "Level": "0",
+                "FloorUse": "CANOPY",
+                "Area": 369.75,
+                "NavPerM2": 10.0,
+                "Nav": 3697.5
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 78.91,
+                "NavPerM2": 10.0,
+                "Nav": 789.1
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1939989,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "SWIMMING POOL, -",
+        "Address1": "108B NAVAN ROAD",
+        "Address2": "KELLS",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 674393.95,
+        "Yitm": 775601.13,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "SWIMMING POOL",
+                "Area": 867.73,
+                "NavPerM2": 60.0,
+                "Nav": 52063.8
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5008534,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "GYMNASIUM / FITNESS CENTRE, -",
+        "Address1": "FLOOR(S) 0, -1",
+        "Address2": "1E.2/UNIT 5 BLACKWATER RETAIL PARK",
+        "Address3": "NAVAN",
+        "Address4": "CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 685791.18,
+        "Yitm": 768151.22,
+        "ValuationReport": [
+            {
+                "Level": "-1",
+                "FloorUse": "GYMNASIUM",
+                "Area": 2376.99,
+                "NavPerM2": 42.0,
+                "Nav": 99833.58
+            },
+            {
+                "Level": "0",
+                "FloorUse": "GYMNASIUM",
+                "Area": 57.33,
+                "NavPerM2": 60.0,
+                "Nav": 3439.8
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2175751,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "SPORTS & LEISURE CENTRE, GYMNASIUM / FITNESS CENTRE",
+        "Address1": "6A/1 WINDTOWN",
+        "Address2": "NAVAN",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 686209.72,
+        "Yitm": 769261.91,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "GYMNASIUM",
+                "Area": 2052.0,
+                "NavPerM2": 60.0,
+                "Nav": 123120.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "GYMNASIUM",
+                "Area": 690.0,
+                "NavPerM2": 60.0,
+                "Nav": 41400.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1942579,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "TOWNPARKS",
+        "Address2": "CEANANNUS MOR RURAL",
+        "Address3": "KELLS",
+        "Address4": "CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 674025.22,
+        "Yitm": 774966.94,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 248.65,
+                "NavPerM2": 40.0,
+                "Nav": 9946.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2200870,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "SPORTS & LEISURE CENTRE, GYMNASIUM / FITNESS CENTRE",
+        "Address1": "LOCAL NO/MAP REF: 18/2",
+        "Address2": "MANORLAND/2ND DIVISION",
+        "Address3": "TRIM RURAL",
+        "Address4": "TRIM CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 679512.61,
+        "Yitm": 756617.61,
+        "ValuationReport": [
+            {
+                "Level": "0      ",
+                "FloorUse": "SPORTS & LEISURE",
+                "Area": 2344.82,
+                "NavPerM2": 60.0,
+                "Nav": 140689.2
+            },
+            {
+                "Level": "1      ",
+                "FloorUse": "SPORTS & LEISURE",
+                "Area": 906.25,
+                "NavPerM2": 60.0,
+                "Nav": 54375.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "13/08/2021",
+        "PropertyNumber": 5014932,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "OLDTOWN",
+        "Address2": "GARLOW CROSS",
+        "Address3": "NAVAN",
+        "Address4": "CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 691958.91,
+        "Yitm": 764826.44,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "FUNCTION ROOM",
+                "Area": 252.24,
+                "NavPerM2": 35.0,
+                "Nav": 8828.4
+            },
+            {
+                "Level": "0",
+                "FloorUse": "TOILETS",
+                "Area": 39.52,
+                "NavPerM2": 35.0,
+                "Nav": 1383.2
+            },
+            {
+                "Level": "0",
+                "FloorUse": "KITCHEN",
+                "Area": 24.51,
+                "NavPerM2": 35.0,
+                "Nav": 857.85
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 39.23,
+                "NavPerM2": 35.0,
+                "Nav": 1373.05
+            },
+            {
+                "Level": "0",
+                "FloorUse": "BAR",
+                "Area": 77.5,
+                "NavPerM2": 35.0,
+                "Nav": 2712.5
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1552816,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "LOCAL NO/MAP REF: 1AA B B C",
+        "Address2": "GORMANSTOWN",
+        "Address3": "DUNSHAUGHLIN",
+        "Address4": "DUNSHAUGHLIN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 701109.12,
+        "Yitm": 749509.91,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CAR PARKING (M2)",
+                "Area": 10000.0,
+                "NavPerM2": 3.0,
+                "Nav": 30000.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "OTHER",
+                "Area": 3.0,
+                "NavPerM2": 20.0,
+                "Nav": 60.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "OFFICE(S)",
+                "Area": 1129.0,
+                "NavPerM2": 20.0,
+                "Nav": 22580.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "OFFICE(S)",
+                "Area": 10483.0,
+                "NavPerM2": 20.0,
+                "Nav": 209660.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2209275,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "GOLF DRIVING RANGE, -",
+        "Address1": "KILLEEN ROAD",
+        "Address2": "KILLEEN",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 693068.92,
+        "Yitm": 754917.56,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CANOPY",
+                "Area": 215.0,
+                "NavPerM2": 12.0,
+                "Nav": 2580.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "OFFICE(S)",
+                "Area": 279.0,
+                "NavPerM2": 45.0,
+                "Nav": 12555.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2209273,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "KILLEEN ROAD",
+        "Address2": "DUNSHAUGHLIN",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 693058.37,
+        "Yitm": 754919.67,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 1684.0,
+                "NavPerM2": 55.0,
+                "Nav": 92620.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "STORE",
+                "Area": 267.0,
+                "NavPerM2": 55.0,
+                "Nav": 14685.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 133.0,
+                "NavPerM2": 55.0,
+                "Nav": 7315.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2179757,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "BATTERJOHN",
+        "Address2": "KILMESSAN",
+        "Address3": "DUNSHAUGHLIN",
+        "Address4": "CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 688778.19,
+        "Yitm": 753472.08,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 171.54,
+                "NavPerM2": 35.0,
+                "Nav": 6003.9
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1554286,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "NEWTOWNMOYNAGH",
+        "Address2": "TRIM",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 677783.98,
+        "Yitm": 753025.69,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 152.07,
+                "NavPerM2": 15.0,
+                "Nav": 2281.05
+            },
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 1162.17,
+                "NavPerM2": 45.0,
+                "Nav": 52297.65
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2185150,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "IFFERNOCK",
+        "Address2": "TRIM",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 681819.566057316,
+        "Yitm": 756113.211019993,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "SHOP",
+                "Area": 119.67,
+                "NavPerM2": 55.0,
+                "Nav": 6581.85
+            },
+            {
+                "Level": "1",
+                "FloorUse": "TOILETS",
+                "Area": 48.84,
+                "NavPerM2": 55.0,
+                "Nav": 2686.2
+            },
+            {
+                "Level": "1",
+                "FloorUse": "BAR",
+                "Area": 405.4,
+                "NavPerM2": 55.0,
+                "Nav": 22297.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2179291,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "LOCAL NO/MAP REF: 29B/1",
+        "Address2": "DUNMOE",
+        "Address3": "AN UAIMH RURAL",
+        "Address4": "NAVAN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 690828.87,
+        "Yitm": 771558.75,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "OTHER",
+                "Area": 1.0,
+                "NavPerM2": 166.0,
+                "Nav": 166.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 41.36,
+                "NavPerM2": 25.0,
+                "Nav": 1034.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2194237,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "THEATRE, CINEMA",
+        "Address1": "5A/2 RAILWAY STREET",
+        "Address2": "NAVAN",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 686907.82,
+        "Yitm": 767536.69,
+        "ValuationReport": []
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2179230,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, ",
+        "Address1": "LOCAL NO/MAP REF: 10B/1",
+        "Address2": "NEILLSTOWN",
+        "Address3": "ARDBRACCAN",
+        "Address4": "NAVAN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 680774.554657732,
+        "Yitm": 767496.64927119,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "WALKER",
+                "Area": 103.82,
+                "NavPerM2": 10.0,
+                "Nav": 1038.2
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 42.3,
+                "NavPerM2": 10.0,
+                "Nav": 423.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 144.94,
+                "NavPerM2": 20.0,
+                "Nav": 2898.8
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1554682,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "RACE TRACK (HORSES), ",
+        "Address1": "LOCAL NO/MAP REF: 2B",
+        "Address2": "BALLYBIN",
+        "Address3": "RATOATH",
+        "Address4": "DUNSHAUGHLIN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 701742.29,
+        "Yitm": 749277.21,
+        "ValuationReport": [
+            {
+                "Level": "1",
+                "FloorUse": "STADIUM",
+                "Area": 2783.3,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "2",
+                "FloorUse": "STADIUM",
+                "Area": 3396.64,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STADIUM",
+                "Area": 6670.74,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "-1",
+                "FloorUse": "STADIUM",
+                "Area": 289.35,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "EST NAV",
+                "Area": 1.0,
+                "NavPerM2": 360000.0,
+                "Nav": 360000.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2183974,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "DUNSHAUGHLIN ROAD",
+        "Address2": "RATOATH",
+        "Address3": "DUNSHAUGHLIN",
+        "Address4": "CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 700867.67,
+        "Yitm": 752125.06,
+        "ValuationReport": [
+            {
+                "Level": "0      ",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 409.53,
+                "NavPerM2": 50.0,
+                "Nav": 20476.5
+            }
+        ]
+    },
+    {
+        "PublicationDate": "08/03/2022",
+        "PropertyNumber": 5018728,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, CLUB HOUSE (GAA)",
+        "Address1": "Lot No. 2G.4.57a/1",
+        "Address2": "Dunsany",
+        "Address3": "Co Meath",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 691484.213358895,
+        "Yitm": 755969.786383733,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 209.82,
+                "NavPerM2": 35.0,
+                "Nav": 7343.7
+            }
+        ]
+    },
+    {
+        "PublicationDate": "21/09/2022",
+        "PropertyNumber": 5023758,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "EQUESTRIAN CENTRE, ",
+        "Address1": "Blackhall Big",
+        "Address2": "Batterstown",
+        "Address3": "Co Meath",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 695583.826185673,
+        "Yitm": 744689.229495524,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "ARENA",
+                "Area": 2016.11,
+                "NavPerM2": 30.0,
+                "Nav": 60483.3
+            },
+            {
+                "Level": "0",
+                "FloorUse": "WALKER",
+                "Area": 380.13,
+                "NavPerM2": 15.0,
+                "Nav": 5701.95
+            },
+            {
+                "Level": "0",
+                "FloorUse": "RECEPTION",
+                "Area": 238.86,
+                "NavPerM2": 30.0,
+                "Nav": 7165.8
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 775.3,
+                "NavPerM2": 15.0,
+                "Nav": 11629.5
+            },
+            {
+                "Level": "0",
+                "FloorUse": "OFFICE(S)",
+                "Area": 129.6,
+                "NavPerM2": 30.0,
+                "Nav": 3888.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "OFFICE(S)",
+                "Area": 129.6,
+                "NavPerM2": 30.0,
+                "Nav": 3888.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "MEZZANINE",
+                "Area": 45.0,
+                "NavPerM2": 3.0,
+                "Nav": 135.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 973.04,
+                "NavPerM2": 30.0,
+                "Nav": 29191.2
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1553378,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "RACE TRACK (HORSES), -",
+        "Address1": "LOCAL NO/MAP REF: ON 9A",
+        "Address2": "NINCH",
+        "Address3": "JULIANSTOWN",
+        "Address4": "MEATH CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 716275.48,
+        "Yitm": 772041.04,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "TOILETS",
+                "Area": 46.65,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "VO Est NAV",
+                "Area": 1.0,
+                "NavPerM2": 5000.0,
+                "Nav": 5000.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1595748,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "AMUSEMENT CENTRE, -",
+        "Address1": "LOCAL NO/MAP REF: 28 29 39AB 88B",
+        "Address2": "MORNINGTON",
+        "Address3": "ST. MARY'S",
+        "Address4": "MEATH CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 715896.08,
+        "Yitm": 773560.39,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "ARCADE",
+                "Area": 3088.53,
+                "NavPerM2": 50.0,
+                "Nav": 154426.5
+            },
+            {
+                "Level": "1",
+                "FloorUse": "ARCADE",
+                "Area": 1883.62,
+                "NavPerM2": 50.0,
+                "Nav": 94181.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1553045,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "HEADFORD DEMESNE",
+        "Address2": "NAVAN ROAD",
+        "Address3": "KELLS",
+        "Address4": "CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 675214.4,
+        "Yitm": 775673.37,
+        "ValuationReport": [
+            {
+                "Level": "1",
+                "FloorUse": "SHOP",
+                "Area": 71.25,
+                "NavPerM2": 45.0,
+                "Nav": 3206.25
+            },
+            {
+                "Level": "1",
+                "FloorUse": "STORE",
+                "Area": 30.21,
+                "NavPerM2": 45.0,
+                "Nav": 1359.45
+            },
+            {
+                "Level": "1",
+                "FloorUse": "BAR",
+                "Area": 472.6,
+                "NavPerM2": 45.0,
+                "Nav": 21267.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5014851,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE (GOLF), -",
+        "Address1": "Bellewstown",
+        "Address2": "Co. Meath",
+        "Address3": "",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 709905.61,
+        "Yitm": 767927.14,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 122.63,
+                "NavPerM2": 50.0,
+                "Nav": 6131.5
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1552484,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "MILLTOWN ROAD",
+        "Address2": "ASHBOURNE",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 707521.37,
+        "Yitm": 751645.47,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "BAR",
+                "Area": 251.51,
+                "NavPerM2": 50.0,
+                "Nav": 12575.5
+            },
+            {
+                "Level": "1",
+                "FloorUse": "BAR",
+                "Area": 171.23,
+                "NavPerM2": 50.0,
+                "Nav": 8561.5
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1614607,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, ",
+        "Address1": "LOCAL NO/MAP REF: 4C 5B",
+        "Address2": "PAINESTOWN",
+        "Address3": "CASTLETOWN",
+        "Address4": "NAVAN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 685559.978434574,
+        "Yitm": 782096.870719257,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 324.0,
+                "NavPerM2": 10.0,
+                "Nav": 3240.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 906.53,
+                "NavPerM2": 20.0,
+                "Nav": 18130.6
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1553956,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "CASTLETOWN",
+        "Address2": "TARA",
+        "Address3": "NAVAN",
+        "Address4": "CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 690233.32,
+        "Yitm": 761163.88,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "SHOP",
+                "Area": 44.0,
+                "NavPerM2": 45.0,
+                "Nav": 1980.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "FUNCTION ROOM",
+                "Area": 151.0,
+                "NavPerM2": 45.0,
+                "Nav": 6795.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "BAR",
+                "Area": 134.0,
+                "NavPerM2": 45.0,
+                "Nav": 6030.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "13/08/2021",
+        "PropertyNumber": 1553239,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "RACE TRACK (HORSES), -",
+        "Address1": "LOCAL NO/MAP REF: 14A",
+        "Address2": "COLLIERSTOWN",
+        "Address3": "ARDCATH",
+        "Address4": "MEATH CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 709439.9,
+        "Yitm": 767403.14,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STADIUM",
+                "Area": 939.69,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "EST NAV",
+                "Area": 1.0,
+                "NavPerM2": 48000.0,
+                "Nav": 48000.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1606868,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "EQUESTRIAN CENTRE, -",
+        "Address1": "LOCAL NO/MAP REF: 8AA",
+        "Address2": "BILLYWOOD",
+        "Address3": "MOYNALTY",
+        "Address4": "KELLS CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 670487.93,
+        "Yitm": 783528.85,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "ARENA",
+                "Area": 148.84,
+                "NavPerM2": 18.0,
+                "Nav": 2679.12
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 164.0,
+                "NavPerM2": 18.0,
+                "Nav": 2952.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1606702,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "EQUESTRIAN CENTRE, -",
+        "Address1": "LOCAL NO/MAP REF: 7",
+        "Address2": "NORMANSTOWN OR NORBINSTOWN",
+        "Address3": "MAPERATH",
+        "Address4": "KELLS CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 676150.916961947,
+        "Yitm": 778873.087406624,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "EQUESTRIAN CENTRE",
+                "Area": 1482.76,
+                "NavPerM2": 18.0,
+                "Nav": 26689.68
+            },
+            {
+                "Level": "0",
+                "FloorUse": "RECEPTION",
+                "Area": 115.2,
+                "NavPerM2": 18.0,
+                "Nav": 2073.6
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 48.6,
+                "NavPerM2": 10.0,
+                "Nav": 486.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2209033,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "THEME PARK, -",
+        "Address1": "TAYTO PARK",
+        "Address2": "KILBREW",
+        "Address3": "ASHBOURNE",
+        "Address4": "CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 701872.1408842,
+        "Yitm": 755985.688911123,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "SHOP",
+                "Area": 66.76,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "OFFICE(S)",
+                "Area": 928.73,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "OFFICE(S)",
+                "Area": 332.13,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "EST NAV",
+                "Area": 1.0,
+                "NavPerM2": 1250000.0,
+                "Nav": 1250000.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "11/05/2022",
+        "PropertyNumber": 2208869,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CINEMA, -",
+        "Address1": "4B / CINEMA ASHBOURNE RETAIL PARK",
+        "Address2": "ASHBOURNE",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 705120.827825457,
+        "Yitm": 753540.498474304,
+        "ValuationReport": []
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2184167,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "GYMNASIUM / FITNESS CENTRE, -",
+        "Address1": "11A/1 BAILIS",
+        "Address2": "NAVAN",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 688599.521236177,
+        "Yitm": 766740.536767139,
+        "ValuationReport": [
+            {
+                "Level": "-1",
+                "FloorUse": "GYMNASIUM",
+                "Area": 337.05,
+                "NavPerM2": 55.0,
+                "Nav": 18537.75
+            },
+            {
+                "Level": "0",
+                "FloorUse": "GYMNASIUM",
+                "Area": 1434.3,
+                "NavPerM2": 55.0,
+                "Nav": 78886.5
+            },
+            {
+                "Level": "1",
+                "FloorUse": "GYMNASIUM",
+                "Area": 972.3,
+                "NavPerM2": 55.0,
+                "Nav": 53476.5
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2196117,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "CASTLE STREET",
+        "Address2": "ASHBOURNE",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 705408.08,
+        "Yitm": 752313.52,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 262.1,
+                "NavPerM2": 50.0,
+                "Nav": 13105.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 710.04,
+                "NavPerM2": 50.0,
+                "Nav": 35502.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1944561,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "CARRIAGE ROAD",
+        "Address2": "NAVAN",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 686536.36,
+        "Yitm": 766986.91,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 302.32,
+                "NavPerM2": 50.0,
+                "Nav": 15116.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "31/05/2021",
+        "PropertyNumber": 2208866,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, ",
+        "Address1": "LOCAL NO/MAP REF: 2F/1",
+        "Address2": "GARRETSTOWN",
+        "Address3": "SKREEN",
+        "Address4": "DUNSHAUGHLIN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 696242.66,
+        "Yitm": 754744.51,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 41.0,
+                "NavPerM2": 18.0,
+                "Nav": 738.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 894.0,
+                "NavPerM2": 10.0,
+                "Nav": 8940.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 1114.0,
+                "NavPerM2": 18.0,
+                "Nav": 20052.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5009995,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "Rooske Road",
+        "Address2": "Dunboyne",
+        "Address3": "Co. Meath",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 701513.12,
+        "Yitm": 741111.09,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 392.44,
+                "NavPerM2": 40.0,
+                "Nav": 15697.6
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2174472,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "LOCAL NO/MAP REF: 5AA / 1",
+        "Address2": "KILTALE",
+        "Address3": "KILMESSAN",
+        "Address4": "DUNSHAUGHLIN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 687879.98,
+        "Yitm": 754225.43,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 1107.5,
+                "NavPerM2": 20.0,
+                "Nav": 22150.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 200.0,
+                "NavPerM2": 10.0,
+                "Nav": 2000.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "OTHER",
+                "Area": 113.04,
+                "NavPerM2": 10.0,
+                "Nav": 1130.4
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5016126,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "EQUESTRIAN CENTRE, -",
+        "Address1": "Collistown",
+        "Address2": "Kilcloon",
+        "Address3": "Co Meath",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 692454.19,
+        "Yitm": 744380.75,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "ARENA",
+                "Area": 540.0,
+                "NavPerM2": 16.2,
+                "Nav": 8748.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 540.0,
+                "NavPerM2": 18.0,
+                "Nav": 9720.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2110764,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CINEMA, -",
+        "Address1": "WATERGATE STREET",
+        "Address2": "NAVAN",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 686926.9,
+        "Yitm": 767921.06,
+        "ValuationReport": []
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2174355,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "LOCAL NO/MAP REF: 19A21ABC/ 1",
+        "Address2": "MOONEYSTOWN",
+        "Address3": "RATHMORE",
+        "Address4": "TRIM CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 674031.68,
+        "Yitm": 766635.18,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 10.89,
+                "NavPerM2": 0.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 1441.16,
+                "NavPerM2": 18.0,
+                "Nav": 25940.88
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 185.72,
+                "NavPerM2": 10.0,
+                "Nav": 1857.2
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5017079,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "Croft Stud",
+        "Address2": "Posseckstown",
+        "Address3": "Enfield  Co Meath",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 677806.86,
+        "Yitm": 742094.78,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "WALKER",
+                "Area": 63.62,
+                "NavPerM2": 10.0,
+                "Nav": 636.2
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 333.0,
+                "NavPerM2": 18.0,
+                "Nav": 5994.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 107.25,
+                "NavPerM2": 10.0,
+                "Nav": 1072.5
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1553740,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "DUBLIN ROAD",
+        "Address2": "BALREASK OLD",
+        "Address3": "NAVAN",
+        "Address4": "CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 687902.55,
+        "Yitm": 766353.41,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "FUNCTION ROOM",
+                "Area": 130.12,
+                "NavPerM2": 40.0,
+                "Nav": 5204.8
+            },
+            {
+                "Level": "0",
+                "FloorUse": "TOILETS",
+                "Area": 46.08,
+                "NavPerM2": 40.0,
+                "Nav": 1843.2
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STADIUM",
+                "Area": 1.0,
+                "NavPerM2": 1000.0,
+                "Nav": 1000.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "MEETING / CONFERENCE ROOM",
+                "Area": 128.42,
+                "NavPerM2": 40.0,
+                "Nav": 5136.8
+            },
+            {
+                "Level": "0",
+                "FloorUse": "BAR",
+                "Area": 101.28,
+                "NavPerM2": 40.0,
+                "Nav": 4051.2
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1552842,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "EQUESTRIAN CENTRE, -",
+        "Address1": "LOCAL NO/MAP REF: 15AE",
+        "Address2": "PELLETSTOWN",
+        "Address3": "DUNSHAUGHLIN",
+        "Address4": "DUNSHAUGHLIN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 694826.11,
+        "Yitm": 749984.53,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "EQUESTRIAN CENTRE",
+                "Area": 1263.37,
+                "NavPerM2": 16.2,
+                "Nav": 20466.594
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2201361,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "LOCAL NO/MAP REF: 1/2",
+        "Address2": "CAPRANNY",
+        "Address3": "TRIM RURAL",
+        "Address4": "TRIM CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 677037.67,
+        "Yitm": 757815.18,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 727.35,
+                "NavPerM2": 18.0,
+                "Nav": 13092.3
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 407.4,
+                "NavPerM2": 10.0,
+                "Nav": 4074.0
+            },
+            {
+                "Level": "0      ",
+                "FloorUse": "STORE",
+                "Area": 63.2,
+                "NavPerM2": 10.0,
+                "Nav": 632.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 640.89,
+                "NavPerM2": 18.0,
+                "Nav": 11536.02
+            },
+            {
+                "Level": "1      ",
+                "FloorUse": "STORE",
+                "Area": 126.4,
+                "NavPerM2": 10.0,
+                "Nav": 1264.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1944239,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STADIUM, -",
+        "Address1": "27A BREWS HILL",
+        "Address2": "NAVAN",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 686327.94,
+        "Yitm": 767475.37,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "EST NAV",
+                "Area": 1.0,
+                "NavPerM2": 62020.0,
+                "Nav": 62020.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "10/06/2022",
+        "PropertyNumber": 2175407,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "GYMNASIUM / FITNESS CENTRE, -",
+        "Address1": "LOCAL NO/MAP REF: 11A. 12A / UNIT 10A",
+        "Address2": "KILLEGLAND",
+        "Address3": "DONAGHMORE",
+        "Address4": "DUNSHAUGHLIN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 706122.59,
+        "Yitm": 752444.38,
+        "ValuationReport": [
+            {
+                "Level": "2",
+                "FloorUse": "GYMNASIUM",
+                "Area": 1841.63,
+                "NavPerM2": 55.0,
+                "Nav": 101289.65
+            },
+            {
+                "Level": "1",
+                "FloorUse": "GYMNASIUM",
+                "Area": 358.83,
+                "NavPerM2": 55.0,
+                "Nav": 19735.65
+            },
+            {
+                "Level": "0",
+                "FloorUse": "GYMNASIUM",
+                "Area": 39.27,
+                "NavPerM2": 55.0,
+                "Nav": 2159.85
+            }
+        ]
+    },
+    {
+        "PublicationDate": "31/05/2021",
+        "PropertyNumber": 2208863,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "LOCAL NO/MAP REF: 1AA/1",
+        "Address2": "SMITHSTOWN",
+        "Address3": "KILLEEN",
+        "Address4": "DUNSHAUGHLIN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 694512.94,
+        "Yitm": 754971.63,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 27.82,
+                "NavPerM2": 25.0,
+                "Nav": 695.5
+            },
+            {
+                "Level": "0",
+                "FloorUse": "OFFICE(S)",
+                "Area": 16.05,
+                "NavPerM2": 25.0,
+                "Nav": 401.25
+            },
+            {
+                "Level": "0",
+                "FloorUse": "BALANCE",
+                "Area": 1.0,
+                "NavPerM2": 110.0,
+                "Nav": 110.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5012454,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "Coragh",
+        "Address2": "Rathmolyon",
+        "Address3": "Trim",
+        "Address4": "Co Meath",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 681610.44,
+        "Yitm": 748513.03,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 100.0,
+                "NavPerM2": 10.0,
+                "Nav": 1000.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 934.0,
+                "NavPerM2": 18.0,
+                "Nav": 16812.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1552592,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "ARCHERSTOWN ROAD",
+        "Address2": "MILLTOWN",
+        "Address3": "ASHBOURNE",
+        "Address4": "CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 707500.02,
+        "Yitm": 752542.41,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 99.81,
+                "NavPerM2": 40.0,
+                "Nav": 3992.4
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1610609,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "PIGHILL",
+        "Address2": "STACKALLAN",
+        "Address3": "NAVAN",
+        "Address4": "CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 692933.05,
+        "Yitm": 773195.54,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 177.33,
+                "NavPerM2": 35.0,
+                "Nav": 6206.55
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1612327,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "PROUDSTOWN ROAD",
+        "Address2": "BATTERSTOWN",
+        "Address3": "NAVAN",
+        "Address4": "CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 687170.44,
+        "Yitm": 769999.08,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 335.98,
+                "NavPerM2": 50.0,
+                "Nav": 16799.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1629411,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "EQUESTRIAN CENTRE, -",
+        "Address1": "LOCAL NO/MAP REF: 2E",
+        "Address2": "CORBALLIS",
+        "Address3": "JULIANSTOWN",
+        "Address4": "MEATH CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 715520.045516943,
+        "Yitm": 770269.21512191,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "EQUESTRIAN CENTRE",
+                "Area": 440.0,
+                "NavPerM2": 18.0,
+                "Nav": 7920.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "ARENA",
+                "Area": 1721.5,
+                "NavPerM2": 16.2,
+                "Nav": 27888.3
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1552857,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "THOMASTOWN",
+        "Address2": "DUNSHAUGHLIN",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 697618.65,
+        "Yitm": 754085.26,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 562.92,
+                "NavPerM2": 45.0,
+                "Nav": 25331.4
+            },
+            {
+                "Level": "1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 293.46,
+                "NavPerM2": 45.0,
+                "Nav": 13205.7
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1939181,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "KELLS",
+        "Address2": "CO. MEATH",
+        "Address3": "",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 673804.62,
+        "Yitm": 775133.49,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 68.37,
+                "NavPerM2": 60.0,
+                "Nav": 4102.2
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1939694,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "GYMNASIUM / FITNESS CENTRE, -",
+        "Address1": "CHURCH LANE",
+        "Address2": "KELLS",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 673860.41,
+        "Yitm": 775949.91,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "SPORTS & LEISURE",
+                "Area": 146.1,
+                "NavPerM2": 40.0,
+                "Nav": 5844.0
+            },
+            {
+                "Level": "1",
+                "FloorUse": "SPORTS & LEISURE",
+                "Area": 71.68,
+                "NavPerM2": 40.0,
+                "Nav": 2867.2
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1944240,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "BREWS HILL",
+        "Address2": "NAVAN",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 686449.14,
+        "Yitm": 767491.29,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 370.2,
+                "NavPerM2": 40.0,
+                "Nav": 14808.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2208862,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, ",
+        "Address1": "LOCAL NO/MAP REF: 13/1",
+        "Address2": "ARODSTOWN",
+        "Address3": "KILMORE",
+        "Address4": "DUNSHAUGHLIN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 688665.08,
+        "Yitm": 749705.02,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 200.0,
+                "NavPerM2": 10.0,
+                "Nav": 2000.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 1550.0,
+                "NavPerM2": 18.0,
+                "Nav": 27900.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "CANOPY",
+                "Area": 0.0,
+                "NavPerM2": 10.0,
+                "Nav": 0.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 149.5,
+                "NavPerM2": 10.0,
+                "Nav": 1495.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "OFFICE(S)",
+                "Area": 77.0,
+                "NavPerM2": 18.0,
+                "Nav": 1386.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2179911,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, SURGERY",
+        "Address1": "LOCAL NO/MAP REF: 12/1",
+        "Address2": "FOLLISTOWN",
+        "Address3": "ARDMULCHAN",
+        "Address4": "NAVAN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 692217.98,
+        "Yitm": 767058.03,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 408.0,
+                "NavPerM2": 20.0,
+                "Nav": 8160.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "OFFICE(S)",
+                "Area": 108.0,
+                "NavPerM2": 20.0,
+                "Nav": 2160.0
+            },
+            {
+                "Level": "0",
+                "FloorUse": "SURGERY",
+                "Area": 378.0,
+                "NavPerM2": 20.0,
+                "Nav": 7560.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2194715,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "GOLF DRIVING RANGE, -",
+        "Address1": "BALLINTER",
+        "Address2": "NAVAN",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 689372.269160956,
+        "Yitm": 761624.552162629,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "OTHER",
+                "Area": 230.04,
+                "NavPerM2": 12.0,
+                "Nav": 2760.48
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1553468,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "GOLF LINKS ROAD",
+        "Address2": "LAYTOWN-BETTYSTOWN-M'TON",
+        "Address3": "MEATH",
+        "Address4": "CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 715735.06,
+        "Yitm": 774226.86,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 1214.13,
+                "NavPerM2": 50.0,
+                "Nav": 60706.5
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5014554,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "Ardnamullen",
+        "Address2": "Clonard",
+        "Address3": "Enfield",
+        "Address4": "Co Meath",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 662325.39,
+        "Yitm": 744609.59,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 279.77,
+                "NavPerM2": 20.0,
+                "Nav": 5595.4
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5015549,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "Creroge",
+        "Address2": "Kilmessan",
+        "Address3": "Co. Meath",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 686475.01497428,
+        "Yitm": 755814.716083696,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "OFFICE(S)",
+                "Area": 6.24,
+                "NavPerM2": 10.0,
+                "Nav": 62.4
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 90.94,
+                "NavPerM2": 25.0,
+                "Nav": 2273.5
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1554595,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "SUMMERHILL DEMESNE",
+        "Address2": "SUMMERHILL",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 684015.57,
+        "Yitm": 748455.86,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 335.79,
+                "NavPerM2": 40.0,
+                "Nav": 13431.6
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1554570,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "EQUESTRIAN CENTRE, -",
+        "Address1": "LOCAL NO/MAP REF: 2B",
+        "Address2": "MOY",
+        "Address3": "SUMMERHILL",
+        "Address4": "TRIM CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 683021.75,
+        "Yitm": 747627.45,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "ARENA",
+                "Area": 666.0,
+                "NavPerM2": 16.2,
+                "Nav": 10789.2
+            }
+        ]
+    },
+    {
+        "PublicationDate": "07/05/2021",
+        "PropertyNumber": 2204980,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "NEW HAGGARD ROAD",
+        "Address2": "TRIM",
+        "Address3": "CO. MEATH",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 679411.28,
+        "Yitm": 756569.24,
+        "ValuationReport": [
+            {
+                "Level": "0      ",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 180.0,
+                "NavPerM2": 50.0,
+                "Nav": 9000.0
+            },
+            {
+                "Level": "1      ",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 1076.69,
+                "NavPerM2": 50.0,
+                "Nav": 53834.5
+            },
+            {
+                "Level": "1",
+                "FloorUse": "CLUBHOUSE",
+                "Area": -1.74,
+                "NavPerM2": 50.0,
+                "Nav": -87.0
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 5015087,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "Danestown",
+        "Address2": "Balrath",
+        "Address3": "Navan",
+        "Address4": "Co Meath",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 697865.122926285,
+        "Yitm": 762373.004540001,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "WALKER",
+                "Area": 36.23,
+                "NavPerM2": 10.0,
+                "Nav": 362.3
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STORE",
+                "Area": 81.49,
+                "NavPerM2": 10.0,
+                "Nav": 814.9
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 943.61,
+                "NavPerM2": 18.0,
+                "Nav": 16984.98
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2171713,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "CLUB HOUSE, -",
+        "Address1": "LONGWOOD",
+        "Address2": "CO. MEATH",
+        "Address3": "",
+        "Address4": "",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 670751.64,
+        "Yitm": 745588.9,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "CLUBHOUSE",
+                "Area": 171.83,
+                "NavPerM2": 40.0,
+                "Nav": 6873.2
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 2164443,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "STABLE, -",
+        "Address1": "LOCAL NO/MAP REF: 1B",
+        "Address2": "YELLOW WALLS",
+        "Address3": "CLONMACDUFF",
+        "Address4": "TRIM CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 680574.334485233,
+        "Yitm": 761350.607632329,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 468.82,
+                "NavPerM2": 20.0,
+                "Nav": 9376.4
+            },
+            {
+                "Level": "0",
+                "FloorUse": "STABLES",
+                "Area": 202.29,
+                "NavPerM2": 10.0,
+                "Nav": 2022.9
+            }
+        ]
+    },
+    {
+        "PublicationDate": "17/09/2019",
+        "PropertyNumber": 1553828,
+        "County": "MEATH",
+        "LocalAuthority": "MEATH COUNTY COUNCIL",
+        "Category": "LEISURE",
+        "Uses": "RACE TRACK (HORSES), -",
+        "Address1": "LOCAL NO/MAP REF: 6B",
+        "Address2": "PROUDSTOWN",
+        "Address3": "AN UAIMH RURAL",
+        "Address4": "NAVAN CO. MEATH",
+        "Address5": "",
+        "CarPark": 0,
+        "Xitm": 687474.293104112,
+        "Yitm": 771216.75079158,
+        "ValuationReport": [
+            {
+                "Level": "0",
+                "FloorUse": "EST NAV",
+                "Area": 1.0,
+                "NavPerM2": 216000.0,
+                "Nav": 216000.0
+            }
+        ]
+    }
+]
