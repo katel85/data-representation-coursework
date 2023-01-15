@@ -42,7 +42,7 @@ if __name__=="__main__":
     book= {'Author': 'Kate Leddy', 'Price': 450, 'Title': 'Python Expert', 'id': 147 } # moved from above for function to work.
     bookdiff= {'Price': 250 }
     #print(getBookById(123))
-    print (deleteBook(162))
-    #print(getallbooks())
+    #print (deleteBook(162))
+    print(getallbooks())
     #print(createBook(book))
     #print(updateBook(2,bookdiff))

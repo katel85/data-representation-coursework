@@ -8,7 +8,7 @@ def index():
 if __name__ == "__main__":
     app.run(debug=True)
 
-# run in cmd enviroment as beloe
+# run in cmd enviroment as below
 ''' C:\Users\kate_\Data Representation\data-representation-coursework\Labs\Week8-Flask (main -> origin)                    
 (venv) λ python a_server.py                                                                                            
  * Serving Flask app 'a_server'                                                                                        
